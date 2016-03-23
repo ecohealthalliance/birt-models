@@ -13,3 +13,5 @@ Reminder to self: notebook metadata should be edited to look like this:
     "signature" : "some long string"
 }
 ```
+
+I'm using iPython and Python 3.
